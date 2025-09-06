@@ -59,8 +59,9 @@ API_KEY = "your_api_key_here"
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/weather-data-fetcher.git
-cd weather-data-fetcher
+git clone https://github.com/Uzo-Hill/Global-Real-Time-Weather-Data-Collection-using-Web-Scraping.git
+cd Global-Real-Time-Weather-Data-Collection-using-Web-Scraping
+
 ```
 
 
@@ -129,6 +130,15 @@ Importance:
 
 - Can be extended into dashboards or mobile apps for continuous monitoring.
 
+---
+
+👨‍💻 Author
+
+Uzoh C. Hillary
+
+📍 Data Scientist / Data Analyst
+
+ [GitHub](https://github.com/Uzo-Hill) | [LinkedIn](http://www.linkedin.com/in/hillaryuzoh)
 
 
 
