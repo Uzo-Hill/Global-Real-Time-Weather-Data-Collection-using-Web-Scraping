@@ -1,0 +1,11 @@
+city,country,temperature_c,temperature_f,condition,humidity,wind_kph,pressure_mb,feels_like_c,fetch_time
+London,United Kingdom,16.3,61.3,Clear,77,6.8,1022.0,16.3,2025-09-05 22:31:46
+New York,United States of America,26.1,79.0,Sunny,60,17.6,1013.0,26.9,2025-09-05 22:31:46
+Tokyo,Japan,26.2,79.2,Sunny,79,4.0,1009.0,29.0,2025-09-05 22:31:46
+Sydney,Australia,13.0,55.4,Partly cloudy,67,12.6,1031.0,11.9,2025-09-05 22:31:47
+Paris,France,16.1,61.0,Clear,77,3.6,1023.0,16.1,2025-09-05 22:31:47
+Mumbai,India,27.0,80.6,Mist,89,18.7,1005.0,30.8,2025-09-05 22:31:48
+Lagos,Nigeria,25.3,77.5,Partly Cloudy,89,18.4,1015.0,27.2,2025-09-05 22:31:48
+Cairo,Egypt,27.3,81.1,Clear,62,16.2,1012.0,29.8,2025-09-05 22:31:49
+Moscow,Russia,13.0,55.4,Clear,88,6.8,1023.0,12.8,2025-09-05 22:31:49
+Toronto,Canada,20.0,68.0,Overcast,64,26.3,1005.0,20.0,2025-09-05 22:31:50
